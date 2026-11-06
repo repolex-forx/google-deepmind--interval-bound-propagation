@@ -1,0 +1,11 @@
+{
+  "org": "google-deepmind",
+  "repo": "interval-bound-propagation",
+  "versions": [
+    {
+      "commit": "217a14d12686e08ebb5cfea1f2748cce58a55913",
+      "tag": "",
+      "parsed_at": "2026-11-06T08:14:25.042796+00:00"
+    }
+  ]
+}
